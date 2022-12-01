@@ -1,4 +1,4 @@
-﻿# Pepole-_grocery_Shop
+# Pepole-_grocery_Shop
 
 # This project google site link https://sites.google.com/diu.edu.bd/peoplesgroceries/home
 
